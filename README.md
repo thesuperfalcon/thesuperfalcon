@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software development student
 ----------------------------
 
-Passionate about coding and learning | Let's build something awesome!
-
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [tintinfalk01@gmail.com](mailto:tintinfalk01@gmail.com)
 
