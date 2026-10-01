@@ -51,8 +51,6 @@ ASP.NET Core Web API with a feature-based architecture, PostgreSQL via EF Core, 
 Two-player turn-based card game built in a team of two.
 REST API in .NET 8 with EF Core and SQL Server, service-layer architecture applying SOLID, Singleton and Facade patterns. SvelteKit frontend. Unit and integration tests run in a GitHub Actions CI pipeline with Discord notifications.
 
-**Campus Nyköping website** – *professional work (closed source)*
-Rebuilt the Campus Nyköping website in Optimizely CMS: new blocks, page types and an improved editor experience in C#, ASP.NET MVC and Razor, with a responsive, WCAG-compliant frontend.
 
 ---
 
