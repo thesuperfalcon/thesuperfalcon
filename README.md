@@ -56,5 +56,5 @@ REST API in .NET 8 with EF Core and SQL Server, service-layer architecture apply
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tintin-falk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tintinfalk)
 [![Email](https://img.shields.io/badge/Email-tintinfalk01%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tintinfalk01@gmail.com)
